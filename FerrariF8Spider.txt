@@ -1,0 +1,4 @@
+Name: Ferrari F8 Spider
+Seats: 2
+Speed: 0-60mph in 2.9 seconds
+Rent per Day: 1100

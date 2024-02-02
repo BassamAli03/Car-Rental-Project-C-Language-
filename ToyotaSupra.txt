@@ -1,0 +1,4 @@
+Name: Toyota Supra
+Seats: 2
+Speed: 0-60mph in 4.3
+Rent per Day: 800

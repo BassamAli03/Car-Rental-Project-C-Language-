@@ -1,0 +1,4 @@
+Name: Honda Civic
+Seats: 5
+Speed: 0-60mph in 5.6 seconds
+Rent per Day: 700

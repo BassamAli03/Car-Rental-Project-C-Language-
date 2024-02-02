@@ -1,0 +1,4 @@
+Name: BMW Z4(G29)
+Seats: 2
+Speed: 0-60mph in 3.8 seconds
+Rent per Day: 900

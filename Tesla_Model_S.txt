@@ -1,0 +1,4 @@
+Name: Tesla Model S
+Seats: 4
+Speed: 0-60mph in 2.4 seconds
+Rent per Day: 1500

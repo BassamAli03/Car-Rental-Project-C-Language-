@@ -1,0 +1,4 @@
+Name: Ford Mustang
+Seats: 4
+Speed: 0-60mph in 5.1 seconds
+Rent per Day: 750
